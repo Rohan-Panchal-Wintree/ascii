@@ -1,4 +1,4 @@
-	`                        .cccc;;cc;';c.
+	                    .cccc;;cc;';c.
                       .,:dkdc:;;:c:,:d:.
                      .loc'.,cc::::::,..,:.
                    .cl;....;dkdccc::,...c;
@@ -15,9 +15,9 @@
    .c:'..lkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkd,.oc
   .lo;,ccdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkd,.c;
 ,dx:..;lllllllllllllllllllllllllllllllloc'...
-cNO;........................................`
+cNO;........................................
 
-	`                .ckx;'........':c.
+	             .ckx;'........':c.
              .,:c:c:::oxxocoo::::,',.
             .odc'..:lkkoolllllo;..;d,
             ;c..:o:..;:..',;'.......;.
@@ -36,7 +36,7 @@ cNO;........................................`
 :0o...:dxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxo,.:,
 cNo........................................;'
 
-	            .cc;.  ...  .;c.
+	        .cc;.  ...  .;c.
          .,,cc:cc:lxxxl:ccc:;,.
         .lo;...lKKklllookl..cO;
       .cl;.,;'.okl;...'.;,..';:.
@@ -55,7 +55,7 @@ cNo........................................;'
   co..:dddddddddddddddddddddddddddddddddl:;''::.
   co..........................................."
 
-	`           .ccccccc.
+	       .ccccccc.
       .,,,;cooolccol;;,,.
      .dOx;..;lllll;..;xOd.
    .cdo,',loOXXXXXkll;';odc.
@@ -72,9 +72,9 @@ cNo..lXXXXXXXXXOolkXXXXXXXXXkl;..;:.;.
   ;c.;:''''':doOXXXXXXXXXXXXXXXXXXOdo;';clc.
   ;c.lOdood:'''oXXXXXXXXXXXXXXXXXXXXXk,..;ol.
   ';.:xxxxxocccoxxxxxxxxxxxxxxxxxxxxxxl::'.';;.
-  ';........................................;l'`
+  ';........................................;l'
 
-	`
+	
         .;:;;,.,;;::,.
      .;':;........'co:.
    .clc;'':cllllc::,.':c.
@@ -91,9 +91,9 @@ d..':lxkkkkkkkkxxkkkkkkkkkkkdoc;,;'..'.,.
 o...'';llllldkkkkkkkkkkkkkkkkkkdll;..'cdo.
 o..,l;'''''';dkkkkkkkkkkkkkkkkkkkkdlc,..;lc.
 o..;lc;;;;;;,,;clllllllllllllllllllllc'..,:c.
-o..........................................;'`
+o..........................................;'
 
-	`
+	
            .,,,,,,,,,.
          .ckKxodooxOOdcc.
       .cclooc'....';;cool.
@@ -110,9 +110,9 @@ cNo..ckkkkkkkkko,.;llc,.ckkkkkc..oc
 kNo..':lllllldkkkkkkkkkkkkkkkkkdcc,.;l.
 KOc,l;''''''';lldkkkkkkkkkkkkkkkkkc..;lc.
 xx:':;;;;,.,,...,;;cllllllllllllllc;'.;oo,
-cNo.....................................oc`
+cNo.....................................oc
 
-	`
+	
 
                    .ccccccc.
                .ccckNKOOOOkdcc.
@@ -129,9 +129,9 @@ cNo.....................................oc`
    ;Oc..cl'':llxOOOOOOOOdcclxOOOOx,.cd.
   .:;';lxl''''':lldOOOOOOOOOOOOOOc..oc
 ,dl,.'cooc:::,....,::coooooooooooc'.c:
-cNo.................................oc`
+cNo.................................oc
 
-	`
+	
 
 
                         .cccccccc.
@@ -148,9 +148,9 @@ cNo.................................oc`
      .:,',coxoc;;ccccoxxxxxxxxo:::oxxo,.cdc.
   .;':;.'oxxxxxc''''';cccoxxxxxxxxxkxc..oc
 ,do:'..,:llllll:;;;;;;,..,;:lllllllll;..oc
-cNo.....................................oc`
+cNo.....................................oc
 
-	`
+	
 
                               .ccccc.
                          .cc;'coooxkl;.
@@ -167,9 +167,9 @@ cNo.....................................oc`
    .cdxo;':lxxxxxxc'';cccccoxxxxxxxxxxxxo,.;lc.
   .loc'.'lxxxxxxxxocc;''''';ccoxxxxxxxxx:..oc
 occ'..',:cccccccccccc:;;;;;;;;:ccccccccc,.'c,
-Ol;......................................;l'`
+Ol;......................................;l'
 
-	`
+	
                               ,ddoodd,
                          .cc' ,ooccoo,'cc.
                       .ccldo;....,,...;oxdc.
@@ -186,4 +186,4 @@ Ol;......................................;l'`
      .dOc..,lddddddddlccc;'';cclddddddddddd;,ll.
    .coc,;::ldddddddddddddl:ccc:ldddddddddlc,ck;
 ,dl::,..,cccccccccccccccccccccccccccccccc:;':xx,
-cNd.........................................;lOc`
+cNd.........................................;lOc
