@@ -61,8 +61,16 @@ app.get("/:name", (req, res) => {
   frames = normalizeFrames(frames);
 
   res.setHeader("Content-Type", "text/plain; charset=utf-8");
-  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate");
+  res.setHeader(
+    "Cache-Control",
+    "no-cache, no-store, no-transform, must-revalidate",
+  );
+  res.setHeader("Connection", "keep-alive");
   res.setHeader("X-Accel-Buffering", "no");
+
+  if (res.flushHeaders) {
+    res.flushHeaders();
+  }
 
   const socket = req.socket;
   socket.setNoDelay(true);
@@ -89,11 +97,6 @@ app.get("/:name", (req, res) => {
     timer = setTimeout(render, nextDelay);
   }
 
-  // \x1b[?25l  — hide cursor
-  // \x1b[2J    — clear entire screen once on connect only
-  // \x1b[1;1H  — go to absolute row 1 col 1
-  // No \x1b[s/\x1b[u — those are xterm-only and silently fail in many terminals,
-  // causing the restore to land at the wrong row. \x1b[1;1H is pure ANSI.
   res.write("\x1b[?25l\x1b[2J\x1b[1;1H");
 
   timer = setTimeout(render, 50);
@@ -119,6 +122,6 @@ app.get("/", (req, res) => {
   );
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, "0.0.0.0", () => {
   console.log(`ASCII server running on port ${PORT}`);
 });
